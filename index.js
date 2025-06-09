@@ -27,7 +27,7 @@ import {
 } from '../../../utils.js';
 
 // 插件的命名空间，与 manifest.json 中的文件夹名称一致
-const PLUGIN_ID = 'scane2'; // 或 'scane_hti'
+const PLUGIN_ID = 'html-to-image1'; // 或 'scane_hti'
 const PLUGIN_NAME = 'ST截图 (html-to-image)'; // 更新插件名
 
 // 插件的默认设置 (更新适配 html-to-image)
