@@ -1,5 +1,5 @@
 
-// public/extensions/third-party/scane_hti/index.js - Migrated to html-to-image
+// public/extensions/third-party/html-to-image1/index.js - Migrated to html-to-image
 
 import {
     extension_settings,
@@ -1153,4 +1153,3 @@ function showSettingsPopup() {
      // 点击overlay空白处关闭
      overlay.addEventListener('click', (e) => { if (e.target === overlay) document.body.removeChild(overlay); });
 }
---- END OF FILE index.js ---
