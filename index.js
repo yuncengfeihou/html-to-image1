@@ -1,4 +1,3 @@
---- START OF FILE index.js ---
 
 // public/extensions/third-party/scane_hti/index.js - Migrated to html-to-image
 
